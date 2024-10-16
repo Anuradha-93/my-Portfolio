@@ -7,6 +7,9 @@
   position: relative; /* For positioning the pseudo-element */
   overflow: hidden; /* To hide any overflow of the animated background */
 }
+h1{
+  color:black;
+}
 
 .education::before {
   content: '';
