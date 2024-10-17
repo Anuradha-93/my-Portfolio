@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-      <p>&copy; {new Date().getFullYear()} Ravneet. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} Ravneet Kaur. All rights reserved.</p>
       <div className={styles.socials}>
         <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
           <FaGithub size={24} />
